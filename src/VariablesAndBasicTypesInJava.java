@@ -1,4 +1,4 @@
-public class Main {
+public class VariablesAndBasicTypesInJava {
     public static  void main(String[] args){
 
         byte b = 0;
